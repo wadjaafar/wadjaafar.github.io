@@ -1,0 +1,57 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="wadjaafar.github.io" resolutions="1x" timestamp="1440703606861">
+  <folder name="css">
+    <file name="site_global.css" crc="365381325"/>
+    <file name="index.css" crc="4180835893" ref="index"/>
+    <file name="iefonts_index.css" crc="218041166" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="coffee-desk-laptop-notebook-large.jpg" crc="3919978783" seo="true" mt="1440397905000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u185.php" crc="4042192962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="newlogo.png" crc="3846672097" seo="true" ref="index"/>
+    <file name="ipad_iphone_pens_notepads_coffee_starbucks_83901_1366x768.jpg" crc="4219496720" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="button-layer 0 copy.png" crc="3991409912" ref="index"/>
+    <file name="button-layer 0.png" crc="280615099" ref="index"/>
+    <file name="coffee-desk-laptop-notebook-large.jpg" crc="3919978783" seo="true" ref="index"/>
+    <file name="programming.png" crc="3776071397" seo="true" ref="index"/>
+    <file name="courses.png" crc="55014616" seo="true" ref="index"/>
+    <file name="media.png" crc="454255063" seo="true" ref="index"/>
+    <file name="udemyicon-layer 1.png" crc="467893197" ref="index"/>
+    <file name="udemyicon-layer 1 copy.png" crc="4225511512" ref="index"/>
+    <file name="matlabicon-layer 1.png" crc="369647934" ref="index"/>
+    <file name="matlabicon-layer 1 copy.png" crc="130511331" ref="index"/>
+    <file name="cominsoonicon-layer 1.png" crc="3847826033" ref="index"/>
+    <file name="cominsoonicon-layer 1 copy.png" crc="4024193505" ref="index"/>
+    <file name="mj.jpg" crc="3758910434" seo="true" ref="index"/>
+    <file name="degn.jpg" crc="4250644281" seo="true" ref="index"/>
+    <file name="location.png" crc="519181084" seo="true" ref="index"/>
+    <file name="phone.png" crc="3838041173" seo="true" ref="index"/>
+    <file name="mail.png" crc="3788840676" seo="true" ref="index"/>
+    <file name="u201-17.png" crc="11897010" ref="index"/>
+    <file name="u201-17-r.png" crc="11897010" ref="index"/>
+    <file name="u201-17-m.png" crc="11897010" ref="index"/>
+    <file name="u201-17-fs.png" crc="3936351002" ref="index"/>
+    <file name="uparrow.png" crc="4027572070" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4091018229" seo="true" mt="1440703275173" redirect="true"/>
+</manifest>
